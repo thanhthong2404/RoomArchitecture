@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">RoomArchitecture</string>
-    <string name="add_word">Add word</string>
-    <string name="hint_word">new word</string>
-    <string name="button_save">Save</string>
-    <string name="empty_not_saved">empty saved</string>
-</resources>
